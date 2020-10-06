@@ -17,7 +17,8 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) pro
 
 ## Official
 
-- [Community](https://slack.m3o.com) - The slack community
+- [Discord](https://discord.gg/hbmJEct) - The new place for discussions
+- [Slack](https://slack.m3o.com) - The slack community
 - [Docs](https://micro.mu) - Official docs, guides and quick starts
 - [Framework](https://github.com/micro/micro) - The open source Micro framework
 - [Services](https://github.com/micro/services) - Example Micro services
