@@ -18,10 +18,10 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) pro
 ## Official
 
 - [Discord](https://discord.gg/hbmJEct) - The new place for discussions
-- [Slack](https://slack.m3o.com) - The slack community
 - [Docs](https://micro.mu) - Official docs, guides and quick starts
 - [Framework](https://github.com/micro/micro) - The open source Micro framework
 - [Services](https://github.com/micro/services) - Example Micro services
+- [Slack](https://slack.m3o.com) - The slack community
 - [Sponsors](https://github.com/sponsors/micro) - GitHub sponsorship for maintainers
 - [Twitter](https://twitter.com/microhq) - The twitter account for updates
 
