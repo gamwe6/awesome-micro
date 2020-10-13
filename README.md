@@ -38,6 +38,7 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) pro
 
 ## Podcasts
 
+- [Micro on InfoQ](https://www.infoq.com/podcasts/microservices-go-micro-paas3/)
 - [Micro on Go Time](https://changelog.com/gotime/8)
 
 ## Projects
