@@ -1,6 +1,6 @@
 # Awesome Micro [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) projects and resources.
+Awesome Micro is a place to submit awesome [Micro](https://github.com/micro/micro) projects and resources.
 
 [Micro](https://github.com/micro) is a cloud native development framework.
 
@@ -19,7 +19,7 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro) pro
 
 - [Discord](https://discord.gg/hbmJEct) - The new place for discussions
 - [Docs](https://micro.mu) - Official docs, guides and quick starts
-- [Framework](https://github.com/micro/micro) - The open source Micro framework
+- [Source](https://github.com/micro/micro) - The source code for Micro
 - [Services](https://github.com/micro/services) - Example Micro services
 - [Slack](https://slack.m3o.com) - The slack community
 - [Sponsors](https://github.com/sponsors/micro) - GitHub sponsorship for maintainers
