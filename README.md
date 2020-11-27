@@ -33,7 +33,7 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro/micr
 
 ## Platforms
 
-- [M3O](https://m3o.com) - A cloud native platform built for developers
+- [M3O](https://m3o.com) - A new cloud platform built for developers powered by Micro
 
 ## Podcasts
 
