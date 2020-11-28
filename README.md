@@ -17,7 +17,6 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro/micr
 
 ## Official
 
-- [Discord](https://discord.gg/hbmJEct) - The new place for discussions
 - [Docs](https://micro.mu) - Official docs, guides and quick starts
 - [Source](https://github.com/micro/micro) - The source code for Micro
 - [Services](https://github.com/micro/services) - Example Micro services
