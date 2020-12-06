@@ -62,4 +62,4 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro/micr
 
 ## Users
 
-- [List of Users](https://github.com/micro/docs/tree/master/users)
+- [List of Users](https://micro.mu/users)
