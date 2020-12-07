@@ -17,10 +17,11 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro/micr
 
 ## Official
 
+- [Discussions](https://github.com/micro/micro/discussions) - Github discussions forum
 - [Docs](https://micro.mu) - Official docs, guides and quick starts
+- [Slack](https://m3o.com) - Micro company slack and support channel
 - [Source](https://github.com/micro/micro) - The source code for Micro
 - [Services](https://github.com/micro/services) - Example Micro services
-- [Slack](https://slack.m3o.com) - The slack community
 - [Sponsors](https://github.com/sponsors/micro) - GitHub sponsorship for maintainers
 - [Twitter](https://twitter.com/microhq) - The twitter account for updates
 
@@ -32,7 +33,7 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro/micr
 
 ## Platforms
 
-- [M3O](https://m3o.com) - A new cloud platform built for developers powered by Micro
+- [Micro Platform](https://m3o.com) - A new cloud platform built for developers powered by Micro
 
 ## Podcasts
 
